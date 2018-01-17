@@ -1,0 +1,135 @@
+*** Initialization parameters file **
+
+IMPORTANT:
+- maintain formatting of the lines with the parameter values (keep 1 space between the equal sign and symbol/value)
+- Use comma(,) as decimal separator, instead of dot(.)
+
+
+----------------------------- SIMULATION ------------------------------
+
+Scenario type (0-reference/1-real):
+scenario = 1
+
+ACK mechanism (1-on/0-off):
+ACK_switch = 1
+
+
+Ncycles = 10000
+(default = 10000)
+
+Nsimulations = 100
+
+Transmitted Power [dBm]
+Pt = 0
+
+
+------------------------------ CSMA SENSORS ---------------------------------
+Number of sensor nodes
+nCSMA = 10
+
+Duty cycle (application layer) [%]
+DCCSMA = 1
+
+Packet length [ms]
+TpCSMA = 15
+
+MAXIMUM time offset after packet generation in application layer
+NORMALIZED TO PACKET LENGTH
+ToffsetCSMA/Tp = 10
+
+
+------------------------------ DC SENSORS ---------------------------------
+
+Number of sensor nodes
+nDC = 1
+
+Duty cycle (application layer) [%]
+DCDC = 0,1
+
+Packet length [ms]
+TpDC = 15
+
+
+
+---------------------------- ACCESS POINTS ------------------------------
+
+Number of access points (must be a perfect square)
+nAP = 16
+
+----------------------------------------------------------------------------
+
+
+------------------------------- CSMA parameters ------------------------------
+
+Listen interval [ms]
+TL = 0,35
+(Mica sensor 0,35)
+
+Dead interval [ms]
+TD = 0,25
+(Mica sensor 0,25)
+
+Min detection interval [ms]
+TR = 0,1
+(Mica sensor  0,1)
+
+MEAN transmission retrial interval
+RELATIVE TO PACKET LENGTH (e.g. Trep = 10 * packetlength)
+Trep/Tp = 5
+
+
+
+------------------------------------ ACK ---------------------------------
+
+Time after end of transmission during which the node expects an ACK [ms]
+TtimeoutACK = 0,00003
+
+Time to receive back an ACK[ms]
+Tresp = 0
+
+Duration of ACK packet [ms]
+TACK = 0
+
+MEAN retransmission interval after no ACK is received
+RELATIVE TO PACKET LENGTH (e.g. Ttimeoutrep = 10 * packetlength)
+Ttimeoutrep/Tp = 10
+
+
+---------------------- Rx/Tx PHYSICAL PARAMETERS ------------------------
+
+Receiver sensitivity [dBm]
+Pdet = -98
+(Mica sensor -98 dBm)
+
+
+Minimum Signal to Interference Plus Noise Ratio (S/(N+sum(I)) > SINRmin = Th) [dB]
+SINRmin = 10
+
+Bandwidth [kHz]
+B = 200
+
+Thermal noise [dBm]
+N0 = -121
+
+Noise figure (including optional margin) [dBm]
+NF = -96
+
+
+
+------------------------------- SCENARIO ------------------------------------
+
+Frequency [MHz]
+f = 868
+
+Building dimentions [m] - for now, only one floor is considered and scenario is square
+lx = 148
+ly = 148
+lz = 3 
+
+Number of floors
+z = 1
+(current simulator implementation does not take hight or number of floors into account)
+
+Propagation model path loss exponent (indoor)
+a = 3,3
+

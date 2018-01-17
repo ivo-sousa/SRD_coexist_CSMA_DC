@@ -1,0 +1,18 @@
+﻿*** Values to iterate ***
+
+IMPORTANT:
+- Use comma(,) as decimal separator, instead of dot(.)
+- Mantain formatting: symbol, equal sign and values separated by spaces
+- For n: minimum of two values (if only one value is inserted, it will not be considered - the program assumes the value on the file "initialization.txt")
+- For Nsimulations: same thing as with n, adding that the number of items must be the same as n's (so each item can correspond)
+- line with "n" must be BEFORE the line with Nsimulations
+- there must be NO SPACES at the end of the line
+
+
+
+ 
+n =             2      3      4     7       9     10   25    50    100    120   150   200  300   600  1500
+   
+Tsim =        10000  10000  10000 10000  10000   10000 10000 10000 10000 5000  5000   1000 1000   500  300
+ 
+Nsimulations =  300   200    200   150    125     100   300   200   50    10     7     5     4     3    3

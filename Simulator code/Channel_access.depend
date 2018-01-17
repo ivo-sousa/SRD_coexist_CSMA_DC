@@ -1,0 +1,691 @@
+# depslib dependency file v1.0
+1475193878 source:c:\users\rb\dropbox\tese\3 simulacao\csma_6_analysis of variance\dc_6a_correct buffer_refazer de raiz\csma.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"list.h"
+	"listActive.h"
+	"initialization.h"
+	"matrixes.h"
+	"results.h"
+	"CSMA.h"
+
+1469465883 c:\users\rb\dropbox\tese\3 simulacao\csma_6_analysis of variance\dc_6a_correct buffer_refazer de raiz\list.h
+
+1475100647 c:\users\rb\dropbox\tese\3 simulacao\csma_6_analysis of variance\dc_6a_correct buffer_refazer de raiz\listactive.h
+
+1475100622 c:\users\rb\dropbox\tese\3 simulacao\csma_6_analysis of variance\dc_6a_correct buffer_refazer de raiz\initialization.h
+
+1471712289 c:\users\rb\dropbox\tese\3 simulacao\csma_6_analysis of variance\dc_6a_correct buffer_refazer de raiz\matrixes.h
+
+1471635457 c:\users\rb\dropbox\tese\3 simulacao\csma_6_analysis of variance\dc_6a_correct buffer_refazer de raiz\results.h
+
+1475105760 c:\users\rb\dropbox\tese\3 simulacao\csma_6_analysis of variance\dc_6a_correct buffer_refazer de raiz\csma.h
+
+1475195502 source:c:\users\rb\dropbox\tese\3 simulacao\csma_6_analysis of variance\dc_6a_correct buffer_refazer de raiz\initialization.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"listActive.h"
+	"list.h"
+	"initialization.h"
+	"matrixes.h"
+
+1469450450 source:c:\users\rb\dropbox\tese\3 simulacao\csma_6_analysis of variance\dc_6a_correct buffer_refazer de raiz\list.c
+	<stdio.h>
+	<windows.h>
+	"list.h"
+
+1475193878 source:c:\users\rb\dropbox\tese\3 simulacao\csma_6_analysis of variance\dc_6a_correct buffer_refazer de raiz\listactive.c
+	<stdio.h>
+	<windows.h>
+	"listActive.h"
+
+1471712289 source:c:\users\rb\dropbox\tese\3 simulacao\csma_6_analysis of variance\dc_6a_correct buffer_refazer de raiz\matrixes.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"list.h"
+	"matrixes.h"
+
+1471924174 source:c:\users\rb\dropbox\tese\3 simulacao\csma_6_analysis of variance\dc_6a_correct buffer_refazer de raiz\results.c
+	<stdio.h>
+	<windows.h>
+	"list.h"
+	"listActive.h"
+	"matrixes.h"
+	"initialization.h"
+	"results.h"
+
+1475194249 source:c:\users\rb\dropbox\tese\3 simulacao\csma_6_analysis of variance\dc_6a_correct buffer_refazer de raiz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"list.h"
+	"listActive.h"
+	"matrixes.h"
+	"initialization.h"
+	"CSMA.h"
+	"results.h"
+
+1475266286 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\dc_via alternativa\csma.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"list.h"
+	"listActive.h"
+	"initialization.h"
+	"matrixes.h"
+	"results.h"
+	"CSMA.h"
+
+1469465883 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\dc_via alternativa\list.h
+
+1475100647 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\dc_via alternativa\listactive.h
+
+1475100622 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\dc_via alternativa\initialization.h
+
+1471712289 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\dc_via alternativa\matrixes.h
+
+1471635457 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\dc_via alternativa\results.h
+
+1475105760 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\dc_via alternativa\csma.h
+
+1469450450 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\dc_via alternativa\list.c
+	<stdio.h>
+	<windows.h>
+	"list.h"
+
+1475193878 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\dc_via alternativa\listactive.c
+	<stdio.h>
+	<windows.h>
+	"listActive.h"
+
+1475266731 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\dc_via alternativa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"list.h"
+	"listActive.h"
+	"matrixes.h"
+	"initialization.h"
+	"CSMA.h"
+	"results.h"
+
+1471712289 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\dc_via alternativa\matrixes.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"list.h"
+	"matrixes.h"
+
+1475203958 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\dc_via alternativa\results.c
+	<stdio.h>
+	<windows.h>
+	"list.h"
+	"listActive.h"
+	"matrixes.h"
+	"initialization.h"
+	"results.h"
+
+1475203458 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\dc_via alternativa\initialization.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"listActive.h"
+	"list.h"
+	"initialization.h"
+	"matrixes.h"
+
+1476200446 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final\initialization.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"listActive.h"
+	"list.h"
+	"initialization.h"
+	"matrixes.h"
+
+1475523898 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final\listactive.h
+
+1469465883 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final\list.h
+
+1475100622 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final\initialization.h
+
+1471712289 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final\matrixes.h
+
+1469450450 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final\list.c
+	<stdio.h>
+	<windows.h>
+	"list.h"
+
+1475193878 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final\listactive.c
+	<stdio.h>
+	<windows.h>
+	"listActive.h"
+
+1476635087 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"list.h"
+	"listActive.h"
+	"matrixes.h"
+	"initialization.h"
+	"CSMA.h"
+	"results.h"
+
+1475683812 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final\csma.h
+
+1475663485 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final\results.h
+
+1475691489 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final\matrixes.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"list.h"
+	"matrixes.h"
+
+1476635015 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final\results.c
+	<stdio.h>
+	<windows.h>
+	"list.h"
+	"listActive.h"
+	"matrixes.h"
+	"initialization.h"
+	"results.h"
+
+1476347812 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final\csma.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"list.h"
+	"listActive.h"
+	"initialization.h"
+	"matrixes.h"
+	"results.h"
+	"CSMA.h"
+
+1478653836 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final_long double\list.c
+	<stdio.h>
+	<windows.h>
+	"list.h"
+
+1469462283 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final_long double\list.h
+
+1478680452 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final_long double\listactive.c
+	<stdio.h>
+	<windows.h>
+	"listActive.h"
+
+1475520298 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final_long double\listactive.h
+
+1478737435 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final_long double\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"list.h"
+	"listActive.h"
+	"matrixes.h"
+	"initialization.h"
+	"CSMA.h"
+	"results.h"
+
+1477160036 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final_long double\matrixes.h
+
+1477849528 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final_long double\initialization.h
+
+1477766825 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final_long double\csma.h
+
+1478031015 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final_long double\results.h
+
+1477160036 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final_long double\matrixes.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"list.h"
+	"matrixes.h"
+
+1478031130 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final_long double\results.c
+	<stdio.h>
+	<windows.h>
+	"list.h"
+	"listActive.h"
+	"matrixes.h"
+	"initialization.h"
+	"results.h"
+
+1478814853 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final_long double\csma.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"list.h"
+	"listActive.h"
+	"initialization.h"
+	"matrixes.h"
+	"results.h"
+	"CSMA.h"
+
+1477852372 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma_final_long double\initialization.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"listActive.h"
+	"list.h"
+	"initialization.h"
+	"matrixes.h"
+
+1478814853 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma\csma.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"list.h"
+	"listActive.h"
+	"initialization.h"
+	"matrixes.h"
+	"results.h"
+	"CSMA.h"
+
+1469462283 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma\list.h
+
+1475520298 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma\listactive.h
+
+1477849528 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma\initialization.h
+
+1477160036 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma\matrixes.h
+
+1478031015 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma\results.h
+
+1477766825 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma\csma.h
+
+1477852372 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma\initialization.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"listActive.h"
+	"list.h"
+	"initialization.h"
+	"matrixes.h"
+
+1478653836 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma\list.c
+	<stdio.h>
+	<windows.h>
+	"list.h"
+
+1478680452 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma\listactive.c
+	<stdio.h>
+	<windows.h>
+	"listActive.h"
+
+1477160036 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma\matrixes.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"list.h"
+	"matrixes.h"
+
+1478031130 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma\results.c
+	<stdio.h>
+	<windows.h>
+	"list.h"
+	"listActive.h"
+	"matrixes.h"
+	"initialization.h"
+	"results.h"
+
+1479482674 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\csma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"list.h"
+	"listActive.h"
+	"matrixes.h"
+	"initialization.h"
+	"CSMA.h"
+	"results.h"
+
+1481463998 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma\csma.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"list.h"
+	"listActive.h"
+	"initialization.h"
+	"matrixes.h"
+	"results.h"
+	"CSMA.h"
+
+1469462283 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma\list.h
+
+1475520298 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma\listactive.h
+
+1484643846 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma\initialization.h
+
+1477160036 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma\matrixes.h
+
+1478031015 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma\results.h
+
+1477766825 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma\csma.h
+
+1485333337 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma\initialization.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"listActive.h"
+	"list.h"
+	"initialization.h"
+	"matrixes.h"
+
+1478653836 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma\list.c
+	<stdio.h>
+	<windows.h>
+	"list.h"
+
+1478680452 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma\listactive.c
+	<stdio.h>
+	<windows.h>
+	"listActive.h"
+
+1485312360 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"list.h"
+	"listActive.h"
+	"matrixes.h"
+	"initialization.h"
+	"CSMA.h"
+	"results.h"
+
+1477160036 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma\matrixes.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"list.h"
+	"matrixes.h"
+
+1478031130 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma\results.c
+	<stdio.h>
+	<windows.h>
+	"list.h"
+	"listActive.h"
+	"matrixes.h"
+	"initialization.h"
+	"results.h"
+
+1481463998 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma_v2\csma.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"list.h"
+	"listActive.h"
+	"initialization.h"
+	"matrixes.h"
+	"results.h"
+	"CSMA.h"
+
+1469462283 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma_v2\list.h
+
+1475520298 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma_v2\listactive.h
+
+1487128192 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma_v2\initialization.h
+
+1477160036 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma_v2\matrixes.h
+
+1478031015 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma_v2\results.h
+
+1477766825 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma_v2\csma.h
+
+1478653836 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma_v2\list.c
+	<stdio.h>
+	<windows.h>
+	"list.h"
+
+1478680452 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma_v2\listactive.c
+	<stdio.h>
+	<windows.h>
+	"listActive.h"
+
+1477160036 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma_v2\matrixes.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"list.h"
+	"matrixes.h"
+
+1478031130 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma_v2\results.c
+	<stdio.h>
+	<windows.h>
+	"list.h"
+	"listActive.h"
+	"matrixes.h"
+	"initialization.h"
+	"results.h"
+
+1487769255 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"list.h"
+	"listActive.h"
+	"matrixes.h"
+	"initialization.h"
+	"CSMA.h"
+	"results.h"
+
+1487769146 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\1 csma_v2\initialization.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"listActive.h"
+	"list.h"
+	"initialization.h"
+	"matrixes.h"
+
+1488418762 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v3\list.c
+	<stdio.h>
+	<windows.h>
+	"list.h"
+
+1469462283 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v3\list.h
+
+1478680452 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v3\listactive.c
+	<stdio.h>
+	<windows.h>
+	"listActive.h"
+
+1475520298 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v3\listactive.h
+
+1489333840 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"list.h"
+	"listActive.h"
+	"matrixes.h"
+	"initialization.h"
+	"CSMA.h"
+	"results.h"
+
+1488421597 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v3\matrixes.h
+
+1488381582 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v3\initialization.h
+
+1477766825 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v3\csma.h
+
+1489333840 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v3\results.h
+
+1489338557 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v3\matrixes.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"list.h"
+	"matrixes.h"
+
+1489338210 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v3\results.c
+	<stdio.h>
+	<windows.h>
+	"list.h"
+	"listActive.h"
+	"matrixes.h"
+	"initialization.h"
+	"results.h"
+
+1489333300 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v3\csma.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"list.h"
+	"listActive.h"
+	"initialization.h"
+	"matrixes.h"
+	"results.h"
+	"CSMA.h"
+
+1489333585 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v3\initialization.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"listActive.h"
+	"list.h"
+	"initialization.h"
+	"matrixes.h"
+
+1490831723 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\csma.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"list.h"
+	"listActive.h"
+	"initialization.h"
+	"matrixes.h"
+	"results.h"
+	"CSMA.h"
+
+1469465883 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\list.h
+
+1475523898 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\listactive.h
+
+1488385182 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\initialization.h
+
+1489360005 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\matrixes.h
+
+1489337440 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\results.h
+
+1477770425 c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\csma.h
+
+1489887505 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\initialization.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"listActive.h"
+	"list.h"
+	"initialization.h"
+	"matrixes.h"
+
+1488422362 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\list.c
+	<stdio.h>
+	<windows.h>
+	"list.h"
+
+1478684052 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\listactive.c
+	<stdio.h>
+	<windows.h>
+	"listActive.h"
+
+1492219985 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"list.h"
+	"listActive.h"
+	"matrixes.h"
+	"initialization.h"
+	"CSMA.h"
+	"results.h"
+
+1489360005 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\matrixes.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"list.h"
+	"matrixes.h"
+
+1489866748 source:c:\users\rb\dropbox\tese\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\results.c
+	<stdio.h>
+	<windows.h>
+	"list.h"
+	"listActive.h"
+	"matrixes.h"
+	"initialization.h"
+	"results.h"
+
+1501513286 source:c:\users\rb\dropbox\dissertação\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\initialization.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"listActive.h"
+	"list.h"
+	"initialization.h"
+	"matrixes.h"
+
+1475523898 c:\users\rb\dropbox\dissertação\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\listactive.h
+
+1469465883 c:\users\rb\dropbox\dissertação\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\list.h
+
+1501511607 c:\users\rb\dropbox\dissertação\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\initialization.h
+
+1501513654 c:\users\rb\dropbox\dissertação\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\matrixes.h
+
+1488422362 source:c:\users\rb\dropbox\dissertação\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\list.c
+	<stdio.h>
+	<windows.h>
+	"list.h"
+
+1478684052 source:c:\users\rb\dropbox\dissertação\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\listactive.c
+	<stdio.h>
+	<windows.h>
+	"listActive.h"
+
+1489360005 source:c:\users\rb\dropbox\dissertação\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\matrixes.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"list.h"
+	"matrixes.h"
+
+1501513534 source:c:\users\rb\dropbox\dissertação\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\results.c
+	<stdio.h>
+	<windows.h>
+	"list.h"
+	"listActive.h"
+	"matrixes.h"
+	"initialization.h"
+	"results.h"
+
+1501513350 c:\users\rb\dropbox\dissertação\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\results.h
+
+1501513358 source:c:\users\rb\dropbox\dissertação\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"list.h"
+	"listActive.h"
+	"matrixes.h"
+	"initialization.h"
+	"CSMA.h"
+	"results.h"
+
+1477770425 c:\users\rb\dropbox\dissertação\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\csma.h
+
+1501512737 source:c:\users\rb\dropbox\dissertação\3 simulacao\dc_csma_finais\4 coexistencia_dc_csma_v4\csma.c
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"list.h"
+	"listActive.h"
+	"initialization.h"
+	"matrixes.h"
+	"results.h"
+	"CSMA.h"
+

@@ -7,7 +7,7 @@ The "[Simulator code](Simulator%20code/)" folder contains the source code, where
 Please, cite the following paper in your publications
 if you use this simulator in your work:
 
-Bandeira R, Sousa I, Queluz MP, Rodrigues A. Coexistence of DC and CSMA in SRD channel access and resilience to LTE interference: A simulator-based analysis. Trans Emerging Tel Tech. 2018;e3301. https://doi.org/10.1002/ett.3301
+Bandeira R, Sousa I, Queluz MP, Rodrigues A. Coexistence of DC and CSMA in SRD channel access and resilience to LTE interference: A simulator-based analysis. *Trans Emerging Tel Tech*. 2018;e3301. https://doi.org/10.1002/ett.3301
 
 ## License
 This simulator is released under MIT License. See the bundled [LICENSE](LICENSE) file for details.
